@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="center">Hi 👋! My name is Abdrey and I'm a Frontend Developer</h2>
 
 ###
 
@@ -42,8 +42,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/0DiNEC/0DiNEC/output/snake.svg" alt="Snake animation" />
 
