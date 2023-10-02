@@ -12,7 +12,7 @@ Hi 👋! My name is Abdrey and I'm a Frontend Developer
 ###
 
 
-<div align="center" style='display: flex; justify-content: center; margin-top: 2rem;'>
+<div align="center">
 
 [![codewars](https://www.codewars.com/users/0DiNEC/badges/large)](https://www.codewars.com/users/0DiNEC)
 
@@ -48,7 +48,7 @@ Hi 👋! My name is Abdrey and I'm a Frontend Developer
 
 ###
 
-<div align="center" style='margin-top:3rem'>
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0DiNEC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="250" alt="languages graph"  />
 </div>
 
