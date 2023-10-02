@@ -46,11 +46,13 @@ Hi 👋! My name is Abdrey and I'm a Frontend Developer
   <img src="https://skillicons.dev/icons?i=webpack" height="60" alt="webpack logo"  />
 </div>
 
-###
+##
 
-<img src="./snake.svg" alt="Snake animation"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0DiNEC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="250" alt="languages graph"  />
+</div>
 
-###
+##
 
 <div align="center">
   <a href="https://www.linkedin.com/in/odin-as/" target="_blank">
