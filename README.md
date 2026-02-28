@@ -32,6 +32,8 @@
   <img src="https://skillicons.dev/icons?i=webpack" height="60" alt="webpack logo"  />
 </div>
 
+##
+
 <div align="center">
   <a href="https://www.linkedin.com/in/odin-as/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="100" height="60" alt="linkedin logo"  />
