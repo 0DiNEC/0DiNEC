@@ -1,8 +1,3 @@
-<h2 align="center">
-Hi 👋! My name is Abdrey 
-</h2>
-
-
 <div align="center">
 
 [![codewars](https://www.codewars.com/users/0DiNEC/badges/large)](https://www.codewars.com/users/0DiNEC)
