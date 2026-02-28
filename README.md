@@ -1,15 +1,6 @@
 <h2 align="center">
-Hi 👋! My name is Abdrey and I'm a Frontend Developer
+Hi 👋! My name is Abdrey 
 </h2>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/0DiNEC/count.svg?"  />
-</div>
-
-
-###
 
 
 <div align="center">
