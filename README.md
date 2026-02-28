@@ -32,14 +32,6 @@
   <img src="https://skillicons.dev/icons?i=webpack" height="60" alt="webpack logo"  />
 </div>
 
-##
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=0DiNEC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false" height="250" alt="languages graph"  />
-</div>
-
-##
-
 <div align="center">
   <a href="https://www.linkedin.com/in/odin-as/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="100" height="60" alt="linkedin logo"  />
